@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sayf Pack!
 
-<!--
-**sayfpack13/sayfpack13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Tunisia specializing in desktop, web, and mobile applications. I enjoy building innovative solutions using a variety of technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: JavaScript, Python, Java, C#, C++, PHP
+- **Frameworks**: React
+- **Tools**: Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Here are some of my featured projects:
+- [**Sayf-GPT**](https://github.com/sayfpack13/Sayf-GPT) - Connect, communicate, and explore a world of possibilities with OpenAI's chat models and the internet.
+- [**race-condition**](https://github.com/sayfpack13/race-condition) - Demonstrates race conditions with asyncio & httpx, showcasing unpredictable outcomes with concurrent HTTP requests.
+- [**WebCraft**](https://github.com/sayfpack13/WebCraft) - A revolutionary web page code generator built with React.js and Google Generative AI, allowing for real-time HTML, CSS, and JS code creation.
+- [**chess-analysis-bot**](https://github.com/sayfpack13/chess-analysis-bot) - An educational chess analysis bot designed to enhance learning.
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayfpack13&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayfpack13&layout=compact&theme=radical)
+
+## 🚀 Views Counter
+![View Count](https://views.whatdoestrumpthink.com/image?username=sayfpack13)
+
+## 📫 How to Reach Me
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Sayf Rourou](https://linkedin.com/in/sayf-rourou-8489781b4)
+
+## 🌱 I'm Currently Learning
+- [Any new technology or framework you are learning]
+
+## 🎉 Fun Facts
+- I enjoy [your hobby or interest].
+- I love to read [your favorite genre or topic].
+
+Feel free to connect with me!
