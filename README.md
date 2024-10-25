@@ -18,18 +18,11 @@ Here are some of my featured projects:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayfpack13&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayfpack13&layout=compact&theme=radical)
 
-## 🚀 Views Counter
-![View Count](https://views.whatdoestrumpthink.com/image?username=sayfpack13)
+## 🌟 Stats & Badges
+![Followers](https://img.shields.io/github/followers/sayfpack13?style=social)
 
 ## 📫 How to Reach Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [sayfpackc11@gmail.com](mailto:sayfpackc11@gmail.com)
 - **LinkedIn**: [Sayf Rourou](https://linkedin.com/in/sayf-rourou-8489781b4)
-
-## 🌱 I'm Currently Learning
-- [Any new technology or framework you are learning]
-
-## 🎉 Fun Facts
-- I enjoy [your hobby or interest].
-- I love to read [your favorite genre or topic].
 
 Feel free to connect with me!
