@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sayf Pack!
+# 👋 Hi there, I'm Sayf Rourou!
 
 I'm a developer from Tunisia specializing in desktop, web, and mobile applications. I enjoy building innovative solutions using a variety of technologies.
 
