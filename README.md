@@ -22,7 +22,7 @@ Here are some of my featured projects:
 ![Followers](https://img.shields.io/github/followers/sayfpack13?style=social)
 
 ## 📫 How to Reach Me
-- **Email**: [sayfpackc11@gmail.com](mailto:sayfpackc11@gmail.com)
+- **Email**: [sayfrourou@gmail.com](mailto:sayfrourou@gmail.com)
 - **LinkedIn**: [Sayf Rourou](https://linkedin.com/in/sayf-rourou-8489781b4)
 
 Feel free to connect with me!
